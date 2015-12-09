@@ -1,2 +1,1 @@
-# Algorithm
-# Just code for practive
+####  genetic algorithm
